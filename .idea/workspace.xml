@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="928aadf9-eaf8-4f73-a34c-ceb663833285" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/ACER.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Master Completo en Java de cero a experto con IntelliJ 2021.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seccion2_Variables/Seccion2_Variables.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seccion2_Variables/src/PrimitivosBoolean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seccion2_Variables/src/PrimitivosCaracteres.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seccion2_Variables/src/PrimitivosFloat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seccion2_Variables/src/SistemasNumericos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seccion2_Variables/src/SistemasNumericosEntradaScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seccion2_Variables/src/SistemasNumericosInterfaz.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
+  </component>
+  <component name="ProjectId" id="1utxtxOw032RE2FrNFtqWG4aGm0" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="proofread" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SistemasNumericosEntradaScanner">
+    <configuration name="PrimitivosBoolean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrimitivosBoolean" />
+      <module name="Master Completo en Java de cero a experto con IntelliJ 2021" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimitivosCaracteres" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrimitivosCaracteres" />
+      <module name="Master Completo en Java de cero a experto con IntelliJ 2021" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SistemasNumericos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SistemasNumericos" />
+      <module name="Master Completo en Java de cero a experto con IntelliJ 2021" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SistemasNumericosEntradaScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SistemasNumericosEntradaScanner" />
+      <module name="Master Completo en Java de cero a experto con IntelliJ 2021" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SistemasNumericosInterfaz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SistemasNumericosInterfaz" />
+      <module name="Master Completo en Java de cero a experto con IntelliJ 2021" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SistemasNumericosEntradaScanner" />
+        <item itemvalue="Application.SistemasNumericosInterfaz" />
+        <item itemvalue="Application.SistemasNumericos" />
+        <item itemvalue="Application.PrimitivosBoolean" />
+        <item itemvalue="Application.PrimitivosCaracteres" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="928aadf9-eaf8-4f73-a34c-ceb663833285" name="Default Changelist" comment="" />
+      <created>1625498906989</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625498906989</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Master_Completo_en_Java_de_cero_a_experto_con_IntelliJ_2021$SistemasNumericosInterfaz.ic" NAME="SistemasNumericosInterfaz Coverage Results" MODIFIED="1628039954635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
