@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="928aadf9-eaf8-4f73-a34c-ceb663833285" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/ACER.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Master Completo en Java de cero a experto con IntelliJ 2021.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seccion2_Variables/Seccion2_Variables.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seccion2_Variables/src/PrimitivosBoolean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seccion2_Variables/src/PrimitivosCaracteres.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seccion2_Variables/src/PrimitivosFloat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seccion2_Variables/src/SistemasNumericos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seccion2_Variables/src/SistemasNumericosEntradaScanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seccion2_Variables/src/SistemasNumericosInterfaz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seccion2_Variables/src/ConversionDeTipos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,16 +43,16 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SistemasNumericosEntradaScanner">
-    <configuration name="PrimitivosBoolean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrimitivosBoolean" />
+  <component name="RunManager" selected="Application.ConversionDeTipos">
+    <configuration name="ConversionDeTipos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConversionDeTipos" />
       <module name="Master Completo en Java de cero a experto con IntelliJ 2021" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimitivosCaracteres" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrimitivosCaracteres" />
+    <configuration name="PrimitivosBoolean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrimitivosBoolean" />
       <module name="Master Completo en Java de cero a experto con IntelliJ 2021" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConversionDeTipos" />
         <item itemvalue="Application.SistemasNumericosEntradaScanner" />
         <item itemvalue="Application.SistemasNumericosInterfaz" />
         <item itemvalue="Application.SistemasNumericos" />
         <item itemvalue="Application.PrimitivosBoolean" />
-        <item itemvalue="Application.PrimitivosCaracteres" />
       </list>
     </recent_temporary>
   </component>
