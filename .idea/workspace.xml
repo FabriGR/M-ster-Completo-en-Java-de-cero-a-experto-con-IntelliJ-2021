@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="928aadf9-eaf8-4f73-a34c-ceb663833285" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Seccion2_Variables/src/ConversionDeTipos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seccion2_Variables/src/C34EjemploStringMetodosArreglo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seccion2_Variables/src/EjemploString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seccion2_Variables/src/EjemploStringConcatenacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seccion2_Variables/src/EjemploStringExtencionArchivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seccion2_Variables/src/EjemploStringInmutable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seccion2_Variables/src/EjemploStringMetodos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seccion2_Variables/src/EjemploStringTestRendiminetoConcat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seccion2_Variables/src/EjemploStringValidar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,8 +27,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProblemsViewState">
-    <option name="selectedIndex" value="1" />
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1utxtxOw032RE2FrNFtqWG4aGm0" />
   <component name="ProjectLevelVcsManager">
@@ -36,44 +48,44 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="proofread" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ConversionDeTipos">
-    <configuration name="ConversionDeTipos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConversionDeTipos" />
+  <component name="RunManager" selected="Application.C34EjemploStringMetodosArreglo">
+    <configuration name="C34EjemploStringMetodosArreglo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C34EjemploStringMetodosArreglo" />
       <module name="Master Completo en Java de cero a experto con IntelliJ 2021" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimitivosBoolean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrimitivosBoolean" />
+    <configuration name="EjemploStringExtencionArchivo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjemploStringExtencionArchivo" />
       <module name="Master Completo en Java de cero a experto con IntelliJ 2021" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SistemasNumericos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SistemasNumericos" />
+    <configuration name="EjemploStringMetodos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjemploStringMetodos" />
       <module name="Master Completo en Java de cero a experto con IntelliJ 2021" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SistemasNumericosEntradaScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SistemasNumericosEntradaScanner" />
+    <configuration name="EjemploStringTestRendiminetoConcat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjemploStringTestRendiminetoConcat" />
       <module name="Master Completo en Java de cero a experto con IntelliJ 2021" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SistemasNumericosInterfaz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SistemasNumericosInterfaz" />
+    <configuration name="EjemploStringValidar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjemploStringValidar" />
       <module name="Master Completo en Java de cero a experto con IntelliJ 2021" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,11 +93,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ConversionDeTipos" />
-        <item itemvalue="Application.SistemasNumericosEntradaScanner" />
-        <item itemvalue="Application.SistemasNumericosInterfaz" />
-        <item itemvalue="Application.SistemasNumericos" />
-        <item itemvalue="Application.PrimitivosBoolean" />
+        <item itemvalue="Application.C34EjemploStringMetodosArreglo" />
+        <item itemvalue="Application.EjemploStringExtencionArchivo" />
+        <item itemvalue="Application.EjemploStringMetodos" />
+        <item itemvalue="Application.EjemploStringValidar" />
+        <item itemvalue="Application.EjemploStringTestRendiminetoConcat" />
       </list>
     </recent_temporary>
   </component>
